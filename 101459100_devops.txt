@@ -1,1 +1,4 @@
 In this class, students will get to know how a DevOps engineer helps make a workplace more efficient. They will:
+
+- Look into different ways DevOps is used and get hands-on experience with common tools used in the industry.
+- Learn how to solve complex problems in business settings by following what DevOps engineers do.
