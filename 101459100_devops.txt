@@ -2,3 +2,5 @@ In this class, students will get to know how a DevOps engineer helps make a work
 
 - Look into different ways DevOps is used and get hands-on experience with common tools used in the industry.
 - Learn how to solve complex problems in business settings by following what DevOps engineers do.
+- Study different data formats like XML, JSON, YAML, and YANG. These are important for making networks work better automatically.
+- Get to use important DevOps tools, such as Ansible and Git, for real tasks.
