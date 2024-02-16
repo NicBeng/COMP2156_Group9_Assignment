@@ -1,0 +1,5 @@
+DevOps is a combination of software development and operaations.
+DevOps saves time by shortening the software development life cycle.
+These engineers do not work in silos and can communicate freely with other department team members, this results in better communication and faster issue resolvement.
+They have an important role in overseeing te entire delivery process of a new product from automation to the final delivery.
+Knowledge of DevOps is very benefical as it is in high demand and offers numerous opportunities.

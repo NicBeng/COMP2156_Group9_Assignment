@@ -1,0 +1,5 @@
+COMP2156 - DevOps for System Administration.
+A course offered at George Brown College in the Computer Systems Technician/Technology programs.
+This course is designed to teach students procedures, protocols and best practices.
+The course provides hands on (weekly labs) learning, which allows students to apply what they have learned in the lecture to real life situations.
+This type of learning also helps develop essential learning that will help beyond the classroom.
