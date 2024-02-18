@@ -6,7 +6,7 @@ By
 
 Nicole Bengtsson
 
-Ewelina Marciniak - T191
+Ewelina Marciniak - T191 (Currently 4th semester)
 
 Nick Natsis
 
