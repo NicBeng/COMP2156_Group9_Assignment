@@ -11,3 +11,5 @@ They understand how containers can simplify application deployment and managemen
 Security in DevOps:
 Students explore security practices within the DevOps context.
 Topics may include vulnerability scanning, access controls, and secure configurations.
+Devops is a very intriguing topic and if understood can be quite enjoyable as a career.
+One of the best companies to work for in Devops would be Amazon because of there AWS Service.
