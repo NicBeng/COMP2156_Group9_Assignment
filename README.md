@@ -8,6 +8,6 @@ Nicole Bengtsson
 
 Ewelina Marciniak - T191 (Currently 4th semester)
 
-Nick Natsis
+Nick Natsis - T187 (Currently 4th semester)
 
 Mahir Noor Ahmed
