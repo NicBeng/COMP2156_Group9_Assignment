@@ -1,0 +1,15 @@
+In this course, students delve into the world of DevOps, which stands for Development and Operations. DevOps practices aim to enhance collaboration between software development and IT operations teams.
+Automation and Infrastructure as Code (IaC):
+Students learn how to automate repetitive tasks using tools like Ansible, Chef, or Puppet.
+They explore the concept of IaC, where infrastructure (servers, networks, etc.) is defined through code.
+Continuous Integration and Continuous Deployment (CI/CD):
+Students understand the importance of CI/CD pipelines.
+They learn to set up automated build, test, and deployment processes.
+Containerization and Orchestration:
+Students explore Docker and Kubernetes.
+They understand how containers can simplify application deployment and management.
+Security in DevOps:
+Students explore security practices within the DevOps context.
+Topics may include vulnerability scanning, access controls, and secure configurations.
+Devops is a very intriguing topic and if understood can be quite enjoyable as a career.
+One of the best companies to work for in Devops would be Amazon because of there AWS Service.

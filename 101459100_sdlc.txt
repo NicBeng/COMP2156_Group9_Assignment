@@ -1,0 +1,7 @@
+Learning DevOps in the software development cycle is crucial because it:
+
+- boosts collaboartion: between developers and operations
+- continuous integration: allows for faster release
+- improves quality: early bug detection
+- speeds up problem solving: better monitoring
+- scalability and flexability: promotes growth
